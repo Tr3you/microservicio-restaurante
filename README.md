@@ -36,7 +36,7 @@ Json request body:
   
 }
 
-#### method = GET | endpoint: /httptrigger2'
+#### method = GET | endpoint: /httptrigger3'
 
 Json request body:
 
